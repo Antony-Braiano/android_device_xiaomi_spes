@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aops_spes.mk
+    $(LOCAL_DIR)/aosp_spes.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_spes-user \
